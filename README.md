@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Mhatre</h1>
-<h3 align="center">4th-Year CSE Student at PHCET 🎓 | Web Developer | AI Enthusiast</h3>
+<h3 align="center"> Web Developer | AI Enthusiast</h3>
 
 ---
 
