@@ -36,12 +36,12 @@
 
 #### **DevOps & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,heroku,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,heroku" />
 </p>
 
 #### **Programming Languages & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,figma,linux,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,figma,c++,java,threejs" />
 </p>
 
 ---
