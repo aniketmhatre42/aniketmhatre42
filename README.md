@@ -1,16 +1,23 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aniket Mhatre</h1>
-<h3 align="center"> Web Developer | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer | AI Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketmhatre42&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmhatre42" />
+</p>
 
 ---
 
-### 🌱 About Me
-- A driven full-stack developer passionate about **Web Dev**, **AI**, and building real-world solutions.  
-- I love tackling complex problems with creative and efficient code.  
-- Ask me about **JavaScript**, **React**, **Node.js**, **MySQL**, **C++**, and **AI/Machine Learning**.
+## 👨‍💻 About Me
+🎓 Recently graduated in **Computer Engineering** from *Pillai HOC College of Engineering and Technology*.  
+💡 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and creating impactful real-world projects.  
+🚀 Always eager to learn new tech stacks and work on innovative ideas.  
+💬 Ask me about **JavaScript**, **React**, **Node.js**, **Python**, **C++**, and **AI/ML**.  
+📫 Reach me at: **aniketmhatre769@gmail.com**
 
 ---
 
-### 🛠 Tech Stack & Tools  
+## 🛠 Tech Stack & Tools
 
 #### **Frontend**
 <p align="left">
@@ -19,27 +26,46 @@
 
 #### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" />
 </p>
 
 #### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite" />
 </p>
 
 #### **DevOps & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,heroku" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,heroku,jenkins" />
 </p>
 
-#### **Others**
+#### **Programming Languages & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,figma,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,figma,linux,powershell,bash" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 🏆 Achievements
+- 🥈 **2nd Place – Tech Expo** (*Showcased AI-Assisted Telemedicine Kiosk for Rural India*)  
+- 🥇 **1st Place – Code Hunt** (*Competitive Coding Challenge*)  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Teleconnect** | A telemedicine web app bridging healthcare access in rural areas, with video conferencing, room-based consults, user auth, and responsive design. ([Repo](https://github.com/aniketmhatre42/Teleconnect)) |
+| **Attendease** | Attendance management system with real-time tracking, CSV export, and analytics dashboard. ([Repo](https://github.com/aniketmhatre42/Attendease)) |
+| **To-Do List** | Sleek task manager with add, edit, delete, and toggle features. ([Repo](https://github.com/aniketmhatre42/To-Do-List-)) |
+| **Customer Segmentation (K-Means)** | Clusters customers based on buying patterns for better targeting. ([Repo](https://github.com/aniketmhatre42/Customer-Segmentation-using-K-Means-Clustering-)) |
+| **Virtual Hand Gesture Recognition** | Python project using hand tracking for interactive gesture input. ([Repo](https://github.com/aniketmhatre42/Virtual-Hand-Gesture-Recognition)) |
+| **Sentiment Analysis Web App** | Web app detecting sentiment instantly with visual feedback. ([Repo](https://github.com/aniketmhatre42/Sentiment-Analysis)) |
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketmhatre42&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmhatre42&layout=compact&theme=tokyonight" height="150" />
@@ -47,20 +73,15 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Teleconnect** | A telemedicine web app bridging healthcare access in rural areas, with video conferencing, room-based consults, user auth, and responsive design. ([View Repo](https://github.com/aniketmhatre42/Teleconnect)) |
-| **Attendease** | A robust attendance management system with student/admin roles, real-time tracking, CSV reporting, and insightful visuals. ([View Repo](https://github.com/aniketmhatre42/Attendease)) |
-| **To-Do List** | A sleek, intuitive task manager—add, edit, delete, and toggle tasks with ease. ([View Repo](https://github.com/aniketmhatre42/To-Do-List-)) |
-| **Customer Segmentation (K-Means)** | A data science notebook that clusters customers based on behavior to enable targeted insights. ([View Repo](https://github.com/aniketmhatre42/Customer-Segmentation-using-K-Means-Clustering-)) |
-| **Virtual Hand Gesture Recognition** | A Python project leveraging hand tracking for interactive input. ([View Repo](https://github.com/aniketmhatre42/Virtual-Hand-Gesture-Recognition)) |
-| **Sentiment Analysis Web App** | An intuitive JS-powered interface to detect and display sentiment with instant feedback. ([View Repo](https://github.com/aniketmhatre42/Sentiment-Analysis)) |
+## 🔥 Fun Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmhatre42&theme=tokyonight" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketmhatre42&theme=tokyonight&margin-w=5&row=1" />
+</p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-mhatre4242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -68,14 +89,6 @@
   <a href="mailto:aniketmhatre769@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🔥 Fun Stats & Trophies  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmhatre42&theme=tokyonight" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketmhatre42&theme=tokyonight&margin-w=5&row=1" />
 </p>
 
 ---
