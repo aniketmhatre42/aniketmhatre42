@@ -11,8 +11,7 @@
 ## 👨‍💻 About Me
 🎓 Recently graduated in **Computer Engineering** from *Pillai HOC College of Engineering and Technology*.  
 💡 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and creating impactful real-world projects.  
-🚀 Always eager to learn new tech stacks and work on innovative ideas.  
-💬 Ask me about **JavaScript**, **React**, **Node.js**, **Python**, **C++**, and **AI/ML**.  
+🚀 Always eager to learn new tech stacks and work on innovative ideas.    
 📫 Reach me at: **aniketmhatre769@gmail.com**
 
 ---
